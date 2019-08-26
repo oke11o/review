@@ -1,6 +1,5 @@
 <?php
 
-
 namespace src\Decorator;
 
 use DateTime;
